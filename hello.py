@@ -1,2 +1,2 @@
-print("Hello world!")
+print("Ola world!")
 print("Goodbye world!")
