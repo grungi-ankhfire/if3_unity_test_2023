@@ -1,2 +1,1 @@
-print("Ola/Coucou world!")
-print("Goodbye world!")
+a = 3
